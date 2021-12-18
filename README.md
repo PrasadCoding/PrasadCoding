@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @PrasadCoding
-- 👀 I’m interested in Python Programming, Graphical User Interface(GUI), C++ programming
+- 👀 My primary language is Python and C++
+- 👀 Python and C++ Developer
+- 👀 Full stack Web Developer
 - 🌱 I’m currently learning Artificial Intelligence and Data Science Engineering
 - 💞️ I’m looking to collaborate on Developement Projects
 - 📫 How to reach me prasadupasani.18@gmail.com
